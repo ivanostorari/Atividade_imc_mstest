@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\atividade_imc_mstest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\atividade_imc_mstest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\atividade_imc_mstest.csproj",
+        "projectName": "atividade_imc_mstest",
+        "projectPath": "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\atividade_imc_mstest.csproj",
+        "packagesPath": "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IVAN WAGNER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

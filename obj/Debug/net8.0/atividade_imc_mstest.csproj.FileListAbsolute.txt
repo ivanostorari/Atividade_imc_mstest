@@ -1,0 +1,5 @@
+C:\Users\IVAN WAGNER\Desktop\04e - Atividade 5 - Execução de teste com MSTes\atividade_imc_mstest\obj\Debug\net8.0\atividade_imc_mstest.csproj.AssemblyReference.cache
+C:\Users\IVAN WAGNER\Desktop\04e - Atividade 5 - Execução de teste com MSTes\atividade_imc_mstest\obj\Debug\net8.0\atividade_imc_mstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN WAGNER\Desktop\04e - Atividade 5 - Execução de teste com MSTes\atividade_imc_mstest\obj\Debug\net8.0\atividade_imc_mstest.AssemblyInfoInputs.cache
+C:\Users\IVAN WAGNER\Desktop\04e - Atividade 5 - Execução de teste com MSTes\atividade_imc_mstest\obj\Debug\net8.0\atividade_imc_mstest.AssemblyInfo.cs
+C:\Users\IVAN WAGNER\Desktop\04e - Atividade 5 - Execução de teste com MSTes\atividade_imc_mstest\obj\Debug\net8.0\atividade_imc_mstest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUNB/js8yHy0npmKSjhV/gdJ49tjwALiGqRQHFAK3pgquAGOT9agFit4J5XVWBsn9geCnIH4NpKRe0Nbe5oTFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IVAN WAGNER\\Desktop\\04e - Atividade 5 - Execução de teste com MSTes\\atividade_imc_mstest\\atividade_imc_mstest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\IVAN WAGNER\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
